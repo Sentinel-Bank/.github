@@ -170,19 +170,22 @@ flowchart LR
 
 🔗 https://github.com/Sentinel-Bank/Sentinel-Bank
 
+## Estatísticas do GitHub
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Sentinel-Bank&repo=Sentinel-Bank&theme=transparent&hide_border=true"
-    alt="Sentinel Bank Back-End Repository"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sentinel-Bank&show_icons=true&count_private=true&hide_border=true"
+    height="165"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sentinel-Bank&repo=Sentinel-Bank&layout=compact&theme=transparent&hide_border=true"
-    alt="Sentinel Bank Back-End Languages"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sentinel-Bank&layout=compact&hide_border=true"
+    height="165"
   />
 </p>
+
 
 ---
 
@@ -190,17 +193,16 @@ flowchart LR
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Sentinel-Bank&repo=Sentinel-Bank-Front&theme=transparent&hide_border=true"
-    alt="Sentinel Bank Front-End Repository"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Sentinel-Bank&repo=Sentinel-Bank&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sentinel-Bank&repo=Sentinel-Bank-Front&layout=compact&theme=transparent&hide_border=true"
-    alt="Sentinel Bank Front-End Languages"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Sentinel-Bank&repo=Sentinel-Bank-Front&hide_border=true"
   />
 </p>
+
 
 
 
