@@ -166,29 +166,195 @@ flowchart LR
   Domain --> Obs
 ```
 
-## Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
+
+🔗 https://github.com/Sentinel-Bank/Sentinel-Bank
 
 <p align="center">
-  <a href="https://github.com/Sentinel-Bank">
-    <img
-      height="170"
-      src="https://github-readme-stats.vercel.app/api?username=Sentinel-Bank&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00D4AA&icon_color=00D4AA&text_color=E6EDF3"
-      alt="Sentinel Bank GitHub Stats"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Sentinel-Bank&repo=Sentinel-Bank&theme=transparent&hide_border=true"
+    alt="Sentinel Bank Back-End Repository"
+  />
+</p>
 
-  <a href="https://github.com/Sentinel-Bank">
-    <img
-      height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sentinel-Bank&layout=compact&hide_border=true&bg_color=00000000&title_color=00D4AA&text_color=E6EDF3"
-      alt="Sentinel Bank Top Languages"
-    />
-  </a>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sentinel-Bank&repo=Sentinel-Bank&layout=compact&theme=transparent&hide_border=true"
+    alt="Sentinel Bank Back-End Languages"
+  />
+</p>
+
+---
+
+🔗 https://github.com/Sentinel-Bank/Sentinel-Bank-Front
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Sentinel-Bank&repo=Sentinel-Bank-Front&theme=transparent&hide_border=true"
+    alt="Sentinel Bank Front-End Repository"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sentinel-Bank&repo=Sentinel-Bank-Front&layout=compact&theme=transparent&hide_border=true"
+    alt="Sentinel Bank Front-End Languages"
+  />
 </p>
 
 
 
 ---
+
+
+## Membros da Equipe
+
+<table align="center" width="100%" cellspacing="0" cellpadding="0">
+
+  <!-- Raul -->
+  <tr>
+    <td>
+      <table width="100%" cellpadding="12" cellspacing="0" style="border:1px solid #30363d; border-radius:12px;">
+        <tr>
+          <td align="center" width="140">
+            <img
+              src="assets/Raul_Perfil_LikedIn.jpeg"
+              width="96"
+              height="96"
+              alt="Raul Melo"
+              style="object-fit:cover; border-radius:8px;"
+            />
+          </td>
+          <td align="left">
+            <strong>Raul Melo</strong><br/>
+            <em>Founder & Software Engineer</em><br/><br/>
+            Back-End • Arquitetura • Cibersecurity • DevOps<br/>
+            Java • Spring Boot • Sistemas Financeiros<br/><br/>
+            <a href="https://github.com/Raul-Melo">GitHub</a> •
+            <a href="https://linkedin.com/in/raul-fernandes-silva-melo-0734403a3">LinkedIn</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <tr><td height="16"></td></tr>
+
+  <!-- Igor -->
+  <tr>
+    <td>
+      <table width="100%" cellpadding="12" cellspacing="0" style="border:1px solid #30363d; border-radius:12px;">
+        <tr>
+          <td align="center" width="140">
+            <img
+              src="assets/Igor_Perfil_Dev.jpeg"
+              width="96"
+              height="96"
+              alt="Igor"
+              style="object-fit:cover; border-radius:8px;"
+            />
+          </td>
+          <td align="left">
+            <strong>Igor</strong><br/>
+            <em>Back-End Developer</em><br/><br/>
+            APIs • Integrações • Regras de Negócio<br/>
+            Java • Spring • Banco de Dados<br/><br/>
+            <a href="https://github.com/IgorCyberTec">GitHub</a> •
+            <a href="https://www.linkedin.com/in/igorgoncalvesoliveira/">LinkedIn</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <tr><td height="16"></td></tr>
+
+  <!-- Isaque -->
+  <tr>
+    <td>
+      <table width="100%" cellpadding="12" cellspacing="0" style="border:1px solid #30363d; border-radius:12px;">
+        <tr>
+          <td align="center" width="140">
+            <img
+              src="assets/Isaque_Perfil_Dev.jpeg"
+              width="96"
+              height="96"
+              alt="Isaque"
+              style="object-fit:cover; border-radius:8px;"
+            />
+          </td>
+          <td align="left">
+            <strong>Isaque</strong><br/>
+            <em>Back-End Developer</em><br/><br/>
+            Sistemas Financeiros • Persistência de Dados<br/>
+            Java • SQL • Modelagem de Domínio<br/><br/>
+            <a href="https://github.com/isaquearauj">GitHub</a> •
+            <a href="https://www.linkedin.com/in/isaquearauj/">LinkedIn</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <tr><td height="16"></td></tr>
+
+  <!-- Pedro -->
+  <tr>
+    <td>
+      <table width="100%" cellpadding="12" cellspacing="0" style="border:1px solid #30363d; border-radius:12px;">
+        <tr>
+          <td align="center" width="140">
+            <img
+              src="assets/Pedro_Perfil_Dev.jpeg"
+              width="96"
+              height="96"
+              alt="Pedro Evangelista"
+              style="object-fit:cover; border-radius:8px;"
+            />
+          </td>
+          <td align="left">
+            <strong>Pedro Evangelista</strong><br/>
+            <em>Front-End Developer</em><br/><br/>
+            UX/UI • Dashboards • Integração com APIs<br/>
+            React • TypeScript • Design Systems<br/><br/>
+            <a href="https://github.com/PeedroSantos">GitHub</a> •
+            <a href="https://www.linkedin.com/in/pedroevangelistasantos/">LinkedIn</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <tr><td height="16"></td></tr>
+
+  <!-- Alexandre -->
+  <tr>
+    <td>
+      <table width="100%" cellpadding="12" cellspacing="0" style="border:1px solid #30363d; border-radius:12px;">
+        <tr>
+          <td align="center" width="140">
+            <img
+              src="assets/Alexandre_Perfil_Dev.jpeg"
+              width="96"
+              height="96"
+              alt="Alexandre"
+              style="object-fit:cover; border-radius:8px;"
+            />
+          </td>
+          <td align="left">
+            <strong>Alexandre</strong><br/>
+            <em>Full Stack Developer</em><br/><br/>
+            Front-End • Back-End • Suporte Técnico<br/>
+            Java • React • Integrações<br/><br/>
+            <a href="https://github.com/AlexandreR84">GitHub</a> •
+            <a href="https://www.linkedin.com/in/alexandre-rezende-663367290/">LinkedIn</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+</table>
 
 
 
