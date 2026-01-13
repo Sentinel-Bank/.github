@@ -167,47 +167,14 @@ flowchart LR
 ```
 
 ## 📊 Estatísticas do GitHub
-
-🔗 https://github.com/Sentinel-Bank/Sentinel-Bank
-
-## Estatísticas do GitHub
-
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sentinel-Bank&show_icons=true&count_private=true&hide_border=true"
-    height="165"
-  />
+  <img src="https://img.shields.io/github/stars/Sentinel-Bank/Sentinel-Bank?style=for-the-badge&color=1f6feb" />
+  <img src="https://img.shields.io/github/issues/Sentinel-Bank/Sentinel-Bank?style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/forks/Sentinel-Bank/Sentinel-Bank?style=for-the-badge&color=2ea043" />
+  <img src="https://img.shields.io/github/license/Sentinel-Bank/Sentinel-Bank?style=for-the-badge&color=8b949e" />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sentinel-Bank&layout=compact&hide_border=true"
-    height="165"
-  />
-</p>
-
 
 ---
-
-🔗 https://github.com/Sentinel-Bank/Sentinel-Bank-Front
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Sentinel-Bank&repo=Sentinel-Bank&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Sentinel-Bank&repo=Sentinel-Bank-Front&hide_border=true"
-  />
-</p>
-
-
-
-
----
-
 
 ## Membros da Equipe
 
